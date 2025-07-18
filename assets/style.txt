@@ -1,0 +1,8 @@
+🌲 Hijau Tua	Pohon, Gunung	#2F4C2F
+🌿 Hijau Sedang	Pepohonan dan latar gunung	#4D6B3A
+🍃 Hijau Muda	Tanah rerumputan	#7A9253
+🌞 Kuning Tua	Matahari & garis luar logo	#C89B4B
+🟤 Coklat Tua	Outline logo, teks "Jejak Cakrawala"	#3A2E1E
+🟡 Beige / Krem Muda	Background & isian teks	#F4E7C6
+🟠 Coklat Oranye Muda	Jalan setapak	#D2A55F
+⚫ Hitam Abu Tua	Sol sepatu	#2C2C2C
