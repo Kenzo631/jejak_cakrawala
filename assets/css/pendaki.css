@@ -1,0 +1,69 @@
+/* ===================================================
+   gunung.css - Styling khusus halaman data gunung
+   Jejak Cakrawala
+   =================================================== */
+
+/* ===== Table Container ===== */
+.table-custom {
+    background-color: #fffaf3; /* Cream lembut */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+/* ===== Table Header ===== */
+.table-custom thead {
+    background-color: #8b5e3c; /* Coklat elegan */
+    color: white;
+}
+
+/* Ensure custom table header style is applied */
+.thead-custom th {
+    background-color: #8b5e3c !important;
+    color: white !important;
+}
+
+/* ===== Table Cells ===== */
+.table-custom th, 
+.table-custom td {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+/* ===== Table Hover Effect ===== */
+.table-custom tbody tr:hover {
+    background-color: #f5f0e6; /* Hover cream */
+    transition: background-color 0.3s ease;
+}
+
+/* ===== Buttons inside Table ===== */
+.table-custom .btn {
+    border-radius: 6px;
+}
+
+/* ===== Badge Styling ===== */
+.table-custom .badge {
+    font-size: 0.9rem;
+    padding: 6px 10px;
+    border-radius: 20px;
+}
+
+/* ===== Images inside Table ===== */
+.table-custom img {
+    border-radius: 6px;
+    transition: transform 0.3s ease;
+}
+
+.table-custom img:hover {
+    transform: scale(1.05);
+}
+
+/* ===== Button Icons ===== */
+.table-custom .btn-group .btn i {
+    font-size: 1.1rem;
+}
+
+/* Hilangkan border di thead saja */
+.table-custom thead th {
+    border: none !important;
+}

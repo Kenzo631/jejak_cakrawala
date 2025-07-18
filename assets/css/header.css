@@ -1,0 +1,34 @@
+/* assets/css/header.css */
+.navbar {
+    z-index: 1000;
+    position: sticky;
+    top: 0;
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+
+.navbar-beige {
+    background-color:#bd876f;
+}
+
+.navbar-beige .navbar-brand,
+.navbar-beige .nav-link,
+.navbar-beige .navbar-text {
+    color: #333; /* Hitam keabu-abuan elegan */
+}
+
+.navbar-beige .nav-link:hover {
+    color: #000; /* Hitam pekat saat hover */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    letter-spacing: 0.5px;
+}
+.dropdown-menu {
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.dropdown-item:hover {
+    background-color: #f0f0f0;
+    color: #007bff;
+}
